@@ -1,0 +1,13 @@
+{
+  "name": "testsimple",
+  "version": "1.0.0",
+  "description": "Unit test framework inspired by Test::Simple",
+  "main": "index.js",
+  "repository": "https://github.com/gkbrk/testsimple-js",
+  "author": "Leo",
+  "license": "MIT",
+  "private": false,
+  "devDependencies": {
+    "@types/node": "^12.7.1"
+  }
+}
