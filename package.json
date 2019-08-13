@@ -1,6 +1,6 @@
 {
   "name": "testsimple",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "Unit test framework inspired by Test::Simple",
   "main": "index.js",
   "repository": "https://github.com/gkbrk/testsimple-js",
